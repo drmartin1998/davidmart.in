@@ -1,0 +1,98 @@
+body {
+	background: #f8f1e2 url(../images/resume_bg.png) repeat;
+	text-align: center;
+	font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+	position: relative;
+	margin: 0 auto;
+	text-align: left;
+	width: 800px;
+}
+
+h1 {	
+	font-family: "crimson-1","crimson-2";
+	font-size: 56px;
+	margin: 0 0 0px 0;
+ 	text-shadow: rgba(0, 0, 0, 0.296875) 0px 0px 3px;
+ 	float: left;
+ 	width: 400px;
+}
+
+#info {
+	float: right;
+	width: 400px;
+	text-align: right;
+}
+
+.email, .phone, .web {
+	font-size: 12px;
+	line-height: 21px;
+}
+
+#contact {
+	width: 800px;
+	float: right;
+	margin-bottom: -15px;
+}
+
+#about {
+	clear: both;
+}
+
+h2 {
+	margin: 20px 0 0 0;
+	text-shadow: 1px 1px 0 #cccccc;
+}
+
+h3, h4 {
+	display: inline;
+	text-shadow: 1px 1px 0 #cccccc;
+}
+
+h3{
+	float: right;
+	color: #333;
+	margin: 21px 0 0 0;
+}
+
+h4 {
+	float: left;
+	color: #333;
+	margin: 21px 0 0 0;
+}
+
+p {
+  	font-family: "crimson-2";
+  	font-size: 24px;
+}
+
+ul {
+	clear: both;
+}
+
+ul li {
+	margin: 0 0 5px 0;
+}
+
+.date {
+	clear: both; margin-top: -20px;
+	font-size: 16px;
+}
+
+.skills {
+	width: 800px;
+	height: 400px;
+}
+
+.skills li{
+	float: left;
+	width: 400px;	
+}
+
+.skillIntro {
+	font-size: 21px;
+	margin-top: 5px;
+}
+
